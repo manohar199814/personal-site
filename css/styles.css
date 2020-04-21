@@ -42,13 +42,17 @@ a{
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-  margin:10px 20px;
+  margin:10px 20px 20px 5px;
 }
 
 a:hover{
   color:#eaf6f6;
 }
 
+
+.anchor-img{
+  padding-right:"5px";
+}
 .bottom-container{
 background-color: #66bfbf;
 padding:50px 0 20px;

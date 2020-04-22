@@ -50,13 +50,15 @@ a:hover{
 }
 
 
-.anchor-img{
-  padding-right:"5px";
-}
+
 .bottom-container{
-background-color: #66bfbf;
+background-color: #434242;
 padding:50px 0 20px;
 }
+
+
+
+
 
 
 
@@ -109,6 +111,7 @@ font-weight: bold;
   float: right;
   margin-left: 30px;
 }
+
 .top-container{
   position:relative;
   background-color: #d1f5d3;
